@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/projects/</loc>
+    <lastmod>2021-03-12T20:31:52+00:00</lastmod>
+  </url><url>
+    <loc>/photos/</loc>
+    <lastmod>2021-03-12T20:31:46+00:00</lastmod>
+  </url><url>
+    <loc>/about/</loc>
+    <lastmod>2021-03-12T20:31:40+00:00</lastmod>
+  </url><url>
     <loc>/categories/</loc>
   </url><url>
     <loc>/</loc>
