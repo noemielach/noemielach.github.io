@@ -2,36 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/contact/</loc>
+    <loc>https://noemielach.github.io/contact/</loc>
     <lastmod>2021-03-13T11:12:05+00:00</lastmod>
   </url><url>
-    <loc>/tags/blog/</loc>
-    <lastmod>2021-03-12T21:00:21+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2021-03-12T21:00:21+00:00</lastmod>
-  </url><url>
-    <loc>/posts/post/</loc>
-    <lastmod>2021-03-12T21:00:21+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-03-12T21:00:21+00:00</lastmod>
-  </url><url>
-    <loc>/tags/story/</loc>
-    <lastmod>2021-03-12T21:00:21+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-03-12T21:00:21+00:00</lastmod>
-  </url><url>
-    <loc>/projects/</loc>
+    <loc>https://noemielach.github.io/projects/</loc>
     <lastmod>2021-03-12T20:31:52+00:00</lastmod>
   </url><url>
-    <loc>/photos/</loc>
+    <loc>https://noemielach.github.io/photos/</loc>
     <lastmod>2021-03-12T20:31:46+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://noemielach.github.io/about/</loc>
     <lastmod>2021-03-12T20:31:40+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://noemielach.github.io/categories/</loc>
+  </url><url>
+    <loc>https://noemielach.github.io/</loc>
+  </url><url>
+    <loc>https://noemielach.github.io/tags/</loc>
   </url>
 </urlset>
