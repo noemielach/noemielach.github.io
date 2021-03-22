@@ -156,4 +156,6 @@ figcaption styles
 figcaption p {
     margin: auto; /* override style in theme */
 }
-
+#table{
+    background-color: red;
+}
